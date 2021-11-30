@@ -8,22 +8,22 @@ global.Owner = {
     isReport: false, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281390658325': { // put your number here
+  '6285643260438': { // put your number here
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '6282256115584': { // put your number here
-    name: 'Dave',
+  '62856432604381': { // put your number here
+    name: 'Nizam',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '60199782326': {
-    name: 'Adiixyz',
+  '6285643260438': {
+    name: 'Pino',
     isReport: true, // if true this number will send if user use command /report or /join
   },
-  '6285713964963': {
+  '6285643260438': {
     isReport: true
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
@@ -45,7 +45,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b',
+  'https://api.xteam.xyz': 'kurrxd09',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
+global.packname = 'wa.me/6285643260438'
 global.author = 'Metro Bot Is The Best'
 
 global.multiplier = 39 // The higher, The harder levelup
